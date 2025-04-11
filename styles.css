@@ -119,53 +119,8 @@ button:hover {
 }
 
 <center><a href="http://nombresanimados.net" target="_blank" ><img alt="k" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/k.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="r" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/r.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="i" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/i.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="s" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/s.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="s" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/s.gif" border="0" ></a></center>
-header {
-  background-color: #ffffff;
-  padding: 10px 20px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-}
-
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
-.logo img {
-  width: 120px;
+logo img {
+  width: 100px; /* Puedes ajustar este valor, por ejemplo 100px */
   height: auto;
-}
-
-.nav-links {
-  display: flex;
-  list-style: none;
-  gap: 20px;
-  padding: 0;
-  margin: 0;
-}
-
-.nav-links li a {
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-  transition: color 0.3s ease;
-}
-
-.nav-links li a:hover {
-  color: #00a86b;
-}
-
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .nav-links {
-    flex-direction: column;
-    gap: 10px;
-    margin-top: 10px;
-  }
 } 
 <center><a href="http://nombresanimados.net" target="_blank" ><img alt="k" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/k.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="r" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/r.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="i" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/i.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="s" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/s.gif" border="0" ></a><a href="http://nombresanimados.net" target="_blank" ><img alt="s" src="http://s950.photobucket.com/albums/ad343/elrinconcito/nombresanimados/Letras//Estilo-0566/s.gif" border="0" ></a></center>
